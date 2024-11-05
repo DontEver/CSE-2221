@@ -1,48 +1,16 @@
 # CSE 2221: Software I - Software Components
 
-**Course Overview**  
-This course covers the intellectual foundations of software engineering, emphasizing design-by-contract principles and mathematical modeling of software functionality. You will learn about component-based software from the client perspective and explore layered data representation.
+**Overview**  
+Explores foundational software engineering principles with a focus on design-by-contract and mathematical modeling. Emphasizes component-based software from a client perspective, layered data representation, and Java development.
 
-## Key Topics Covered
+## Core Competencies
 
-### Java Programming Fundamentals
-- Introduction to Java
-- Basic input/output
-- Value types and control structures
-- Methods, calls, and parameter passing
+- **Java Fundamentals**: Introduction to Java, basic I/O, value types, control structures, methods, calls, parameter passing.
+- **Software Engineering**: Design-by-contract, packages, interfaces, classes, reference types, `equals`, and `toString` methods.
+- **Components & Tools**: `XMLTree` and `NaturalNumber` components, UML class diagrams.
+- **Advanced Concepts**: Layered implementations, recursion, specification-based testing, JUnit.
+- **Data Structures & Generics**: Sequences, queues, stacks, sets, maps, and iterators.
+- **GUI Development**: Swing for GUIs, Model-View-Controller (MVC) design pattern.
+- **Software Correctness**: Reasoning about correctness, loop invariants.
 
-### Software Engineering Principles
-- **Software components**
-- **Design-by-contract**
-- Packages, interfaces, and classes
-- Reference types, `equals`, and `toString` methods
-
-### Components and Tools
-- `XMLTree` components
-- `NaturalNumber` components
-- Introduction to UML class diagrams (or similar)
-
-### Advanced Concepts
-- Layered implementations of new `NaturalNumber` methods
-- **Introduction to recursion**
-- Specification-based testing and JUnit
-
-### Generics and Data Structures
-- **Generics** in Java
-- `Sequence` components
-- `Queue` components
-- `Stack` components
-- Iterators
-- `Set` and `Map` components
-
-### GUI Development
-- Graphical User Interfaces (GUIs) using **Swing**
-- Model-View-Controller (MVC) design pattern
-
-### Software Correctness and Reasoning
-- Reasoning about software correctness
-- Loop invariants
-
----
-
-**Note:** Throughout the course, emphasis is placed on using **Eclipse** as the development environment.
+> **Tools Used**: Java, Eclipse.
